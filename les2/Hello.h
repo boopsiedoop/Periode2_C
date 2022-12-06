@@ -1,1 +1,1 @@
-void Hello_world();
+void Hello();
