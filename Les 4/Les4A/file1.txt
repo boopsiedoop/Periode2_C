@@ -1,0 +1,3 @@
+Dit is een file 
+in deze file staan wat karakters
+zorg ervoor dat deze onleesbaar worden
